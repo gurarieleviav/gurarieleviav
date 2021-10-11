@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gurarieleviav
 - 👀 I’m interested in computer networking and opertion systems
-- 🌱 I’m currently learning Pyrhon,C,Java
+- 🌱 I’m currently learning Pyrhon, C and Java
 - 💞️ I’m looking to collaborate on cool projects
 - 📫 How to reach me: gurarieleviav@gmail.com
 
